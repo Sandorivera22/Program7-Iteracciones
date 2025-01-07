@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\obj\Debug\net9.0\Iteraciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\obj\Debug\net9.0\Iteraciones.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\obj\Debug\net9.0\Iteraciones.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\obj\Debug\net9.0\Iteraciones.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\bin\Debug\net9.0\Iteraciones.exe
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\bin\Debug\net9.0\Iteraciones.deps.json
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\bin\Debug\net9.0\Iteraciones.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\bin\Debug\net9.0\Iteraciones.dll
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\bin\Debug\net9.0\Iteraciones.pdb
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\obj\Debug\net9.0\Iteraciones.dll
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\obj\Debug\net9.0\refint\Iteraciones.dll
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\obj\Debug\net9.0\Iteraciones.pdb
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\obj\Debug\net9.0\Iteraciones.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Iteraciones\obj\Debug\net9.0\ref\Iteraciones.dll
